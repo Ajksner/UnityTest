@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 33201534346118664}
   - component: {fileID: 23309932161492296}
   - component: {fileID: 65574636664212382}
-  - component: {fileID: 54812225857173526}
   m_Layer: 26
   m_Name: Data Caps
   m_TagString: Untagged
@@ -107,33 +106,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.1240141, y: 2.4242392, z: 4.716363}
   m_Center: {x: 0.0000011324881, y: -0.0000038743033, z: 0.00000011920933}
---- !u!54 &54812225857173526
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1303781000943784}
-  serializedVersion: 4
-  m_Mass: 0.2
-  m_Drag: 0.2
-  m_AngularDrag: 0.05
-  m_CenterOfMass: {x: 0, y: 0, z: 0}
-  m_InertiaTensor: {x: 1, y: 1, z: 1}
-  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ImplicitCom: 1
-  m_ImplicitTensor: 1
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!1 &1802179045238576
 GameObject:
   m_ObjectHideFlags: 0
