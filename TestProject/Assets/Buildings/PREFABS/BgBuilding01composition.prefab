@@ -50,7 +50,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7583823830506213675, guid: 2f4f30809134c564ab3a66e3bb2f4447, type: 3}
       propertyPath: m_Name
-      value: BgBuilding01Final
+      value: BgBuilding01composition
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -94,6 +94,8 @@ PrefabInstance:
     - {fileID: 3484431015724162236, guid: 2f4f30809134c564ab3a66e3bb2f4447, type: 3}
     - {fileID: 3589771541657612481, guid: 2f4f30809134c564ab3a66e3bb2f4447, type: 3}
     - {fileID: 4890638751916127381, guid: 2f4f30809134c564ab3a66e3bb2f4447, type: 3}
+    - {fileID: 8516462014246553532, guid: 2f4f30809134c564ab3a66e3bb2f4447, type: 3}
+    - {fileID: 5292616268250069512, guid: 2f4f30809134c564ab3a66e3bb2f4447, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f4f30809134c564ab3a66e3bb2f4447, type: 3}

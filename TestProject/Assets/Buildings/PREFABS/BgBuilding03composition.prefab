@@ -70,7 +70,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7767945320564318139, guid: 2c8dbf9fdbf258c4f948ed90373c0682, type: 3}
       propertyPath: m_Name
-      value: BgBuilding03Fina
+      value: BgBuilding03composition
       objectReference: {fileID: 0}
     - target: {fileID: 8634873141545029219, guid: 2c8dbf9fdbf258c4f948ed90373c0682, type: 3}
       propertyPath: m_LocalPosition.y
